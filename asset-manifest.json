@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/Blog-App-Frontend/static/js/main.044a5b0d.js",
+    "static/media/login.jpg": "/Blog-App-Frontend/static/media/login.ccad2c090892edf5451e.jpg",
+    "index.html": "/Blog-App-Frontend/index.html",
+    "main.044a5b0d.js.map": "/Blog-App-Frontend/static/js/main.044a5b0d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.044a5b0d.js"
+  ]
+}
